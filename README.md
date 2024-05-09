@@ -1,5 +1,5 @@
-Hackathon project, not complete, however, allows user to enter age, weight, height, name
-  It then allows you to choose a goal: Weight Loss, Sports Performance, Strength, 
-    Weight loss calculates bmi, giving a corresponding weight suggestion to maintain health
-    Sports Performance provides a workout plan, however, is unfinished and will not tailor to speciic stats yet
-    Strength is unfinished as well--plan is to include a rep calculator for each major lift(SBD) based on One rep Max and percentages
+Incomplete Wordle Game utilizing jTextFields, jButtoms, Graphics, cardLayout, multiple jFrames/Panels. Allows user to type in a 6 letter guess and guess will show up on the botton of the screen along with corresponding colored letter boxes.
+Green= Correct Letter in Correct Index
+Yellow= Letter is in word, however Wrong Index
+Red= Letter is not in the word
+Soon I will update the GUI and add a congratulations screen in a new jFrame as well as randomize words
